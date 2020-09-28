@@ -15,3 +15,6 @@ class product(models.Model):
     _inherit = "product.product"
 
     max_quantity = fields.Float(string="Maximum Quantity")
+    
+    
+ lwiiz sensen 16
